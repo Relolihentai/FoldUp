@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: dddd20af69edd9947b2b9a0b9db68b7c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tileTemplate: {fileID: 14087573791970601, guid: e862a2ff2b5b3fa4ca6f80b62060b4a3, type: 3}
+  - meshTemplate: {fileID: 6037023727902013184, guid: 42055d974b049104489f244ac15b3abe, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
